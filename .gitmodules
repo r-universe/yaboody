@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ReportSubtotal"]
 	path = ReportSubtotal
-	url = https://github.com/cran/ReportSubtotal
+	url = https://github.com/yaboody/reportsubtotal
